@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-vl53l0x",
+  "title": "vl53l0x",
+  "keywords": "vl53l0x, esp32, esp8266, arduino",
+  "description": "Plugin vl53l0x for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-vl53l0x/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-vl53l0x/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
